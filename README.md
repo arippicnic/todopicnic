@@ -2,7 +2,7 @@
 
 Minimal TodoList [Next.js](https://nextjs.org/) app that uses React hooks with Typescript
 
-- Demo on
+- Demo on Vercel - [todopicnic.vercel.app](https://todopicnic.vercel.app/)
 
 ## Installation
 

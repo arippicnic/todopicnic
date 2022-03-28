@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  overflow-x: hidden;
+  background-color: #222427;
+  color: #fff;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
